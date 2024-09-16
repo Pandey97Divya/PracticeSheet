@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T21:43:44 IST" name="Default suite" finished-at="2024-09-16T21:44:14 IST" duration-ms="29408">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T21:43:44 IST" name="Default test" finished-at="2024-09-16T21:44:14 IST" duration-ms="29408">
+      <class name="app.heroku.HeroKu">
+        <test-method is-config="true" signature="beforeMethodButtonClickble()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:43:45 IST" name="beforeMethodButtonClickble" finished-at="2024-09-16T21:43:51 IST" duration-ms="6171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodButtonClickble -->
+        <test-method is-config="true" signature="beforeMethodButtonText()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:43:51 IST" name="beforeMethodButtonText" finished-at="2024-09-16T21:43:56 IST" duration-ms="5102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodButtonText -->
+        <test-method is-config="true" signature="beforeMethodButtonVisible()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:43:56 IST" name="beforeMethodButtonVisible" finished-at="2024-09-16T21:44:01 IST" duration-ms="5099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodButtonVisible -->
+        <test-method is-config="true" signature="beforeMethodMultipleClick()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:44:01 IST" name="beforeMethodMultipleClick" finished-at="2024-09-16T21:44:08 IST" duration-ms="7400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodMultipleClick -->
+        <test-method signature="multipleClick()[pri:4, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:44:08 IST" name="multipleClick" finished-at="2024-09-16T21:44:10 IST" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleClick -->
+        <test-method is-config="true" signature="afterMethodButtonClickable()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:44:10 IST" name="afterMethodButtonClickable" finished-at="2024-09-16T21:44:14 IST" duration-ms="3947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodButtonClickable -->
+        <test-method is-config="true" signature="afterMethodButtonText()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:44:14 IST" name="afterMethodButtonText" finished-at="2024-09-16T21:44:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodButtonText -->
+        <test-method is-config="true" signature="afterMethodButtonVisible()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:44:14 IST" name="afterMethodButtonVisible" finished-at="2024-09-16T21:44:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodButtonVisible -->
+        <test-method is-config="true" signature="afterMethodMultipleClick()[pri:0, instance:app.heroku.HeroKu@3c46e67a]" started-at="2024-09-16T21:44:14 IST" name="afterMethodMultipleClick" finished-at="2024-09-16T21:44:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodMultipleClick -->
+      </class> <!-- app.heroku.HeroKu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
